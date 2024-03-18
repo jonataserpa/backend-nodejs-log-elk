@@ -20,3 +20,7 @@ Before getting started, ensure you have the following prerequisites installed:
     ```bash
     docker compose up
 
+## Kibana
+
+![Dashboard](https://raw.githubusercontent.com/jonataserpa/images/main/log-elk-nodejs.png)
+
